@@ -1,5 +1,10 @@
 # BANK-CUSTOMER-CHURN-PREDICTION
 
+![bank ppple](https://github.com/user-attachments/assets/77de0350-845e-44d7-a909-51ae85fb4510)
+
+Photo by <a href="https://unsplash.com/@cardmapr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">CardMapr.nl</a> on <a href="https://unsplash.com/photos/person-holding-black-remote-control-PP4LPGM3gHg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
 Business Problem Statement
 
 In the competitive landscape of the banking industry, customer churn poses a critical business challenge with significant financial and social repercussions. Banks face substantial revenue loss and increased acquisition costs when customers terminate their accounts—a phenomenon directly impacting the institution's growth and profitability.
